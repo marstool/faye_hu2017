@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2014/</loc>
+  </url>
+  
+  <url>
+    <loc>/2016/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/201703/</loc>
+  </url>
+  
+  <url>
+    <loc>/201706/</loc>
+  </url>
+  
+  <url>
+    <loc>/201709/</loc>
+  </url>
+  
+  <url>
+    <loc>/201712/</loc>
   </url>
   
   <url>

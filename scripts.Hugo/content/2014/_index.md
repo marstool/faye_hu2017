@@ -6,4 +6,4 @@ weight = 20
 
 
 
-{{< myframe01 src="fayehu2014.jjj123.com" >}}
+{{< myframe01 src="https://fayehu2014.jjj123.com" >}}
